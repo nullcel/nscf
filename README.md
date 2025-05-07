@@ -1,2 +1,2 @@
-# Interactive Communication Service Framework
-something
+# NSCom
+Network Socket Communication Framework
