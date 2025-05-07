@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "nscom-epoll.h": "c",
+        "nscom-utils.h": "c",
+        "nscom.h": "c"
+    }
+}
